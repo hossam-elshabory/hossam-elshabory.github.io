@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hossam El Shabory Portfolio</title>
-    <link>/</link>
-    <description>Recent content on Hossam El Shabory Portfolio</description>
+    <title>Blogs on Hossam El Shabory Portfolio</title>
+    <link>/blogs/</link>
+    <description>Recent content in Blogs on Hossam El Shabory Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>New Post</title>
-      <link>/new-post/</link>
-      <pubDate>Fri, 17 Nov 2023 00:19:49 +0200</pubDate>
-      
-      <guid>/new-post/</guid>
-      <description>This is a new blog post new blog post</description>
-    </item>
-    
+    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate><atom:link href="/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Render Math With Mathjax</title>
       <link>/blogs/math/</link>
@@ -28,15 +19,6 @@ Then, use $$ ... $$ on a line by itself to render a block equation:
 $$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | &amp;lt; \text{negligible} $$
 The raw version is:
 $$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | &amp;lt; \text{negligible} $$ Write in-line equations with \\( .</description>
-    </item>
-    
-    <item>
-      <title>Image Gallery</title>
-      <link>/gallery/</link>
-      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
-      
-      <guid>/gallery/</guid>
-      <description></description>
     </item>
     
     <item>
