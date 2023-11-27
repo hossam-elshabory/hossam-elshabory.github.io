@@ -6,14 +6,14 @@
     <description>Recent content on Hossam El Shabory Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Nov 2023 06:13:22 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New Post</title>
-      <link>/new-post/</link>
-      <pubDate>Fri, 17 Nov 2023 00:19:49 +0200</pubDate>
+      <title>Blog Post</title>
+      <link>/blogs/blog-post/</link>
+      <pubDate>Wed, 22 Nov 2023 06:13:22 +0200</pubDate>
       
-      <guid>/new-post/</guid>
-      <description>This is a new blog post new blog post</description>
+      <guid>/blogs/blog-post/</guid>
+      <description>Blog Post template </description>
     </item>
     
     <item>

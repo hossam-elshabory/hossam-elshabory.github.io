@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/new-post/</loc>
-    <lastmod>2023-11-17T00:19:49+02:00</lastmod>
+    <loc>/blogs/blog-post/</loc>
+    <lastmod>2023-11-22T06:13:22+02:00</lastmod>
   </url><url>
     <loc>/blogs/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
-  </url><url>
-    <loc>/tags/example/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+    <lastmod>2023-11-22T06:13:22+02:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2023-11-22T06:13:22+02:00</lastmod>
+  </url><url>
+    <loc>/tags/example/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
     <loc>/tags/markdown-syntax/</loc>
